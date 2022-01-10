@@ -7,7 +7,9 @@ I have added the settings.py, under "DATABASES" section you need to update.
 Finally run:
 
 python manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py runserver
 
 
