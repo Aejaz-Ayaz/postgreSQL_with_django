@@ -12,5 +12,4 @@ python manage.py migrate
 
 python manage.py runserver
 
-
 If the server launches it means the database was successfully connected to postgres. 
